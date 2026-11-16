@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CarClub</string>
+    <string name="old_car_club">OLD CAR CLUB</string>
+    <string name="member_name">Member Name</string>
+    <string name="member_country">Member Country</string>
+    <string name="favorite_car">Favorite Car</string>
+    <string name="change">Change</string>
+    <string name="share_on_text">Share on Text</string>
+    <string name="default_name">Haydar Talha Ergün</string>
+    <string name="default_country">Türkiye</string>
+    <string name="default_car">1945 Mercedes</string>
+    <string name="share_chooser_title">Paylaş</string>
+    <string name="item_icon_desc">Item Icon</string>
+    <string name="header_image_desc">Header Old Car Image</string>
+    <string name="country_turkey">Türkiye</string>
+    <string name="country_usa">Amerika Birleşik Devletleri</string>
+    <string name="country_germany">Almanya</string>
+    <string name="country_japan">Japonya</string>
+    <string name="country_france">Fransa</string>
+    <string name="country_italy">İtalya</string>
+    <string name="country_spain">İspanya</string>
+    <string name="country_england">İngiltere</string>
+    <string name="country_canada">Kanada</string>
+    <string name="country_brazil">Brezilya</string>
+    <string name="car_mercedes">1945 Mercedes</string>
+    <string name="car_mustang">1967 Ford Mustang</string>
+    <string name="car_chevrolet">1957 Chevrolet Bel Air</string>
+    <string name="car_aston">1963 Aston Martin DB5</string>
+    <string name="car_jaguar">1961 Jaguar E-Type</string>
+    <string name="car_dodge">1969 Dodge Charger</string>
+    <string name="car_porsche">1954 Porsche 356</string>
+    <string name="car_chevelle">1970 Chevrolet Chevelle</string>
+    <string name="car_shelby">1965 Shelby Cobra</string>
+    <string name="car_300sl">1955 Mercedes 300SL</string>
+</resources>
